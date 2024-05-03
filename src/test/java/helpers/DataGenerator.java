@@ -1,4 +1,4 @@
-package conduitApp.helpers;
+package helpers;
 
 import com.github.javafaker.Faker;
 
